@@ -1,0 +1,20 @@
+{
+   "close": {
+      "message": "Close"
+   },
+   "desc": {
+      "message": "QRcoder ( generate QRcode and read QRcode via context menu locally )"
+   },
+   "generate": {
+      "message": "Generate QRcode"
+   },
+   "pageActionTitle": {
+      "message": "click to show the QRcode of "
+   },
+   "save": {
+      "message": "save"
+   },
+   "read": {
+      "message": "Scan QRcode to ClipBoard"
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "close": {
+      "message": "关闭"
+   },
+   "desc": {
+      "message": "把任意文字生成二维码，扫描二维码，完全离线操作"
+   },
+   "generate": {
+      "message": "生成二维码"
+   },
+   "pageActionTitle": {
+      "message": "点击生成二维码："
+   },
+   "save": {
+      "message": "保存"
+   },
+   "read": {
+      "message": "扫到剪切板"
+   }
+}
